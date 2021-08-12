@@ -1,4 +1,4 @@
-# IBM Proof of Technology - End-to-End Data Science using Watson Studio
+# IBM Proof of Technology - End-to-End Data Science using Cloud Pak for Data
 
 ## Description:
 Watson Studio provides you with the environment and tools to solve your business problems by collaboratively working with data. You can choose the tools you need to analyze and visualize data, to cleanse and shape data, to ingest streaming data, or to create, train, and deploy machine learning/deep learning models. Watson Studio contains both open source and IBM value-add capabilities to help infuse AI into business to drive innovation. 
