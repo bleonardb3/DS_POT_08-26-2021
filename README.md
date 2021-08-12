@@ -1,15 +1,15 @@
 # IBM Proof of Technology - End-to-End Data Science using Cloud Pak for Data
 
 ## Description:
-Watson Studio provides you with the environment and tools to solve your business problems by collaboratively working with data. You can choose the tools you need to analyze and visualize data, to cleanse and shape data, to ingest streaming data, or to create, train, and deploy machine learning/deep learning models. Watson Studio contains both open source and IBM value-add capabilities to help infuse AI into business to drive innovation. 
+Cloud Pak for Data provides you with the environment and tools to solve your business problems by collaboratively working with data. You can choose the tools you need to analyze and visualize data, to cleanse and shape data, to ingest streaming data, or to create, train, and deploy machine learning/deep learning models. Cloud Pak for Data contains both open source and IBM value-add capabilities to help infuse AI into business to drive innovation. 
 
-Watson Studio is tightly integrated with the Watson Knowledge Catalog. The Watson Knowledge Catalog is a secure enterprise catalog to discover, catalog and govern your data/models with greater efficiency. The catalog is underpinned by a central repository of metadata describing all the information managed by the platform. Users will be able to share data with their colleagues more easily, regardless of what the data is, where it is stored, or how they intend to use it. In this way, the intelligent asset catalog will unlock the value held within that data across user groups—helping organizations use this key asset to its full potential.
+Cloud Pak for Data includes Watson Knowledge Catalog. Watson Knowledge Catalog is a secure enterprise catalog to discover, catalog and govern your data/models with greater efficiency. The catalog is underpinned by a central repository of metadata describing all the information managed by the platform. Users will be able to share data with their colleagues more easily, regardless of what the data is, where it is stored, or how they intend to use it. In this way, the intelligent asset catalog will unlock the value held within that data across user groups—helping organizations use this key asset to its full potential.
 
-The labs in this workshop will illustrate the myriad features included in Watson Studio, and Watson Knowlege Catalog. The labs need to be completed in order, except for Lab-7 which is standalone. The datasets used for the lab contain simulated data. 
+The labs in this workshop will illustrate the myriad features included in Cloud Pak for Data, including Watson Studio, Watson Knowledge Catalog, Watson Machine Learning and Watson OpenScale. The datasets used for the lab contain simulated data. 
 
 > <img src="https://github.com/bleonardb3/DS_POT_01-16-2020/blob/master/images/DataScienceLifeCycle.png"/>
 
-1. [Lab-1](Lab-1) - This lab will set up the Watson Studio environment for subsequent labs and introduce you to the Project and Gallery features of Watson Studio
+1. [Lab-1](Lab-1) - This lab will set up the Cloud Pak for Data environment for subsequent labs and introduce you to the Project and Gallery features.
 
 1. [Lab-2](Lab-2) - This lab will introduce you to the features of IBM's Watson Knowledge Catalog. Watson Knowledge Catalog is a secure enterprise catalog to discover, catalog and govern your data and modeling assets with greater efficiency. 
 
