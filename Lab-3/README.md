@@ -16,5 +16,5 @@ The goal of the lab is for the users to gain familiarity with the features of th
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_05-20-2021/raw/main/Lab-3/Data%20Refinery%20Lab_v05-20-2021.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_08-26-2021/raw/main/Lab-3/Data%20Refinery%20Lab_v08-26-2021.pdf).
 
