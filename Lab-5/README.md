@@ -8,7 +8,6 @@ In this lab, you will use SparkML in Watson Studio to run generated travel data 
 Upon completing the lab, you will know how to:
 
 1. Create a projec token.
-1. Join data from three sources.
 1. Identify labels and transform data.
 1. Conduct feature engineering for algorithm data.
 1. Declare a machine learning model.
